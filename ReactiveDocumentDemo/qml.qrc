@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>ReactiveTextController.js</file>
+        <file>HoverToolTipComponent.qml</file>
+        <file>Utils.js</file>
+    </qresource>
+</RCC>
